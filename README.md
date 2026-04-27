@@ -1,2 +1,2 @@
-# Maturitní práce repozitář-Herec-Kucera
+# Maturitní práce repozitář-Herec-Kučera
 Tento repozitář slouží jako archiv naší maturitní práce
